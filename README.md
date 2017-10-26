@@ -1,6 +1,7 @@
 # PyCon
 
 #### Thursday 26th
+##### 12:00 Functional Programming - Assembly Room - Paul Willjones
 14:30 Implementing Custom Containers - Assembly Room \
 15:00 Python as a second language - Assembly Hall - Hannah Hazi
 15:30 Building Quart from Flask and Asyncio - Assembly Hall - Phil Jones\
