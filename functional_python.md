@@ -68,11 +68,14 @@ Coconut - functional programming language that compiles to python
 - Can use python modules
 - Compiles into python code (2, 3)
 
+
+[funcy](https://github.com/Suor/funcy)\
+[coconut](http://coconut-lang.org/)
 ```
 pip install funcy
 pip install coconut
 ```
 #### Resources 
-```podcast.__init__ ```- podcast\
-So you want to be a functional programmer ? 
-Functional programming in python - Youtube
+[```podcast.__init__```](https://www.podcastinit.com/)\
+[So you want to be a functional programmer](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)\
+[Functional programming in python](https://www.youtube.com/watch?v=Ta1bAMOMFOI)
