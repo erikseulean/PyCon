@@ -1,5 +1,7 @@
 #### Making all the boring things go away
 
+[Presentation link](http://slides.simplistix.co.uk/PyConUK2017-boring-things)
+
 - Multiple scripts end up needing framework
 - Each script is usually a single function
 - Much shared config
@@ -13,19 +15,20 @@ Summary
 - abstract and test frameworks independnently
 - if you use mush use labels
 
-mush: 
-https://mush.readthedocs.io
+##### mush: 
+https://mush.readthedocs.io\
 search for `mush python`
 
-testfixtures:
-http://testfixtures.readthedocs.io
+##### testfixtures:
+http://testfixtures.readthedocs.io\
+search for `textfixtures python`
 
-click:
-http://click.pocoo,org
+##### click: (command line argument parser)
+http://click.pocoo.org
 
-PyYAML - config parser
+##### PyYAML - config parser
 https://github.com/yaml/pyyaml
 
-Validation:
-`voluptuous`
-`mushroom`
+#### Validation:
+`voluptuous` - https://pypi.python.org/pypi/voluptuous \
+`mushroom` - http://marshmallow.readthedocs.io/\
