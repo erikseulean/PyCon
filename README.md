@@ -2,6 +2,7 @@
 
 #### Thursday 26th
 ##### [12:00 Functional Programming - Assembly Room - Paul Willjones](functional_python.md)
+##### [12:30 Performance vs Pythonic Code](performance_vs_pythonic_code.md)
 14:30 Implementing Custom Containers - Assembly Room \
 15:00 Python as a second language - Assembly Hall - Hannah Hazi
 15:30 Building Quart from Flask and Asyncio - Assembly Hall - Phil Jones\
@@ -43,5 +44,5 @@ Room D - Moritz Eissenhauer\
 15:30 Blame and the fallacy of root cause analysis - Assembly Room - Paul Ross\
 ***16:00 Break***\
 16:30 What python can teach us about beer - Assembly Room - Martin Chorley\
-17:00 Trapped by the trappings - Room D - Chad\
+17:00 Trapped by the trappings - Room D - Chad
 
