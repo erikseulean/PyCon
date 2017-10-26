@@ -5,9 +5,9 @@
 ##### [12:30 Performance vs Pythonic Code](performance_vs_pythonic_code.md)
 ##### [14:30 Implementing Custom Containers - Assembly Room](implementing_custom_containers.md) \
 15:00 Python as a second language - Assembly Hall - Hannah Hazi
-15:30 Building Quart from Flask and Asyncio - Assembly Hall - Phil Jones\
-**16:00 Break**\
-16:30 Making all the boring things go away - Assembly Hall - Chris Withers\
+##### [15:30 Building Quart from Flask and Asyncio - Assembly Hall - Phil Jones](building_quart_from_flask_and_asyncio.md)
+**16:00 Break**
+##### [16:30 Making all the boring things go away - Assembly Hall - Chris Withers](making_all_the_boring_things_go_away.md)\
 17:00 On big computation and python
 
 #### Friday 27th
