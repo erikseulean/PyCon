@@ -1,22 +1,22 @@
 # PyCon
 
 #### Thursday 26th
-##### [12:00 Functional Programming - Assembly Room - Paul Willjones](functional_python.md)
-##### [12:30 Performance vs Pythonic Code](performance_vs_pythonic_code.md)
-##### [14:30 Implementing Custom Containers - Assembly Room](implementing_custom_containers.md)
-15:00 Python as a second language - Assembly Hall - Hannah Hazi
-##### [15:30 Building Quart from Flask and Asyncio - Assembly Hall - Phil Jones](building_quart_from_flask_and_asyncio.md)
+[12:00 Functional Programming - Assembly Room - Paul Willjones](functional_python.md)\
+[12:30 Performance vs Pythonic Code](performance_vs_pythonic_code.md)\
+[14:30 Implementing Custom Containers - Assembly Room](implementing_custom_containers.md)\
+15:00 Python as a second language - Assembly Hall - Hannah Hazi\
+[15:30 Building Quart from Flask and Asyncio - Assembly Hall - Phil Jones](building_quart_from_flask_and_asyncio.md)\
 **16:00 Break**
-##### [16:30 Making all the boring things go away - Assembly Hall - Chris Withers](making_all_the_boring_things_go_away.md)
-##### [17:00 On big computation and python](on_big_computation_and_python.md)
+[16:30 Making all the boring things go away - Assembly Hall - Chris Withers](making_all_the_boring_things_go_away.md)\
+[17:00 On big computation and python](on_big_computation_and_python.md)
 
 #### Friday 27th
 [10:30 Choo Choo - All aboard the data train!](choo_choo_all_aboard_the_data_train.md)\
-11:30 Abstract Base Classes - Room D - Leonardo Giordani\
-12:00 Tackling complexity with constraint programming - 
-Room D - Moritz Eissenhauer\
+[11:30 Fun with serverless Python](fun_with_serverless_python.md)\
+[12:00 Software Seven Deadly Wastes](software_seven_deadly_sins.md)\
 12:30 Cylc: The python workflow engine for cycling systems\
-14:30 Banish your project boilerplate - Room C - Chris Musselle\
+[14:30 Banish your project boilerplate - Room C - Chris Musselle](automate_your_boilerplate.md)\
+[15:00 Combinatorics, graphs and complexity]
 15:30 The ZoDB ecosystem - Room A - Christopher Lozinski\
 16:30 Visualizing environmental data with python and bokeh - Room C - Marcus Donnelly
 
