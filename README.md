@@ -22,7 +22,7 @@
 
 #### Saturday 28th
 
-10:30 Jupyter Notebooks and collaboration - Assembly Room - Scott Stevenson\
+[10:30 Jupyter Notebooks and collaboration - Assembly Room - Scott Stevenson](jupyter_collaboration.md)\
 11:30 Lazy sequences working hard - Assembly Room - Thomas Guest\
 12:00 Efficient data mangling with pandas indexes - Ferrier Hall - Alexander Hendorf\
 ***13:00 Lunch - Poster session***\
