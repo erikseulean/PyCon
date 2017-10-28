@@ -16,7 +16,7 @@
 [12:00 Software Seven Deadly Wastes](software_seven_deadly_sins.md)\
 12:30 Cylc: The python workflow engine for cycling systems\
 [14:30 Banish your project boilerplate - Room C - Chris Musselle](automate_your_boilerplate.md)\
-[15:00 Combinatorics, graphs and complexity]
+[15:00 Combinatorics, graphs and complexity](combinatorics_graphs_and_complexity.md)\
 15:30 The ZoDB ecosystem - Room A - Christopher Lozinski\
 16:30 Visualizing environmental data with python and bokeh - Room C - Marcus Donnelly
 
