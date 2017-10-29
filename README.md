@@ -18,24 +18,21 @@
 [14:30 Banish your project boilerplate - Room C - Chris Musselle](automate_your_boilerplate.md)\
 [15:00 Combinatorics, graphs and complexity](combinatorics_graphs_and_complexity.md)\
 15:30 The ZoDB ecosystem - Room A - Christopher Lozinski\
-16:30 Visualizing environmental data with python and bokeh - Room C - Marcus Donnelly
 
 #### Saturday 28th
 
 [10:30 Jupyter Notebooks and collaboration - Assembly Room - Scott Stevenson](jupyter_collaboration.md)\
-11:30 Lazy sequences working hard - Assembly Room - Thomas Guest\
-12:00 Efficient data mangling with pandas indexes - Ferrier Hall - Alexander Hendorf\
+[11:30 Lazy sequences working hard - Assembly Room - Thomas Guest](lazy_sequences_working_hard.md)\
+12:00 Ethics and politics of programming\
 ***13:00 Lunch - Poster session***\
 14:30 Introduction to deep learning with python: the force awakens - Assembly Hall - Celia Cintas\
-15:00 Creating a python Web-app for destiny the game - Ferrier Hall - Allyn Hunt\
+[15:00 Machine learning libraries you wish you'd know about](machine_learning_libraries_you_wanted_to_know_about.md)\
 15:30 Deprecation warning: Documenting your software's last days - Room A - Daniel Beck\
 16:00 Break - go home
 
 #### Sunday 29th
 
-10:30 Finding bugs for free: The magic of code analysis - Assembly Room - Mark Shannon
-***11:00 Break***\
-11:30 Everyday security issues and how to avoid them - Assembly Room - Christian Heimes\
+[11:30 You don't have to be mad to work here](you_dont_have_to_be_mad_to_work_here.md)\
 12:00 Verified fakes of web services by example - Ferrier Hall - Adam Dangoor\
 12:30 MyPy: The good, the bad and the ugly - Ferrier Hall - David Sim\
 ***13:00 Lunch & Job Fair***\
